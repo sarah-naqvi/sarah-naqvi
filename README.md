@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Data analytics projects using Python, SQL, and Power BI, focusing on real-world datasets.<br>👯 I’m looking to collaborate on<br>Beginner-friendly data analysis projects, dashboards, and SQL-based case studies.<br>🤝 I’m looking for help with<br>Improving data storytelling, advanced SQL queries, and analytics best practices.<br>🌱 I’m currently learning<br>Pandas, NumPy for analysis, and improving my problem-solving skills in analytics.<br>💬 Ask me about<br>Python basics, SQL queries, data cleaning, and Power BI dashboards.
+🔭 I’m currently working on Data analytics projects using Python, SQL, and Power BI, focusing on real-world datasets.<br>👯 I’m looking to collaborate on<br>Beginner-friendly data analysis projects, dashboards, and SQL-based case studies.<br>🤝 I’m looking for help with<br>Improving data storytelling, advanced SQL queries, and analytics best practices.<br>🌱 I’m currently learning<br>Pandas, NumPy for analysis, and improving my problem-solving skills in analytics.<br>💬 Ask me about<br>Python basics, SQL queries, data cleaning, and Power BI dashboards.
 
 
 ## 🌐 Socials:
